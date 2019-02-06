@@ -10,7 +10,7 @@ except:
 	diff = 5
 prec = 'wpictf2019pow'
 
-solveurl = 'todo'
+solveurl = 'https://github.com/roboman2444/ctfpow/blob/master/powsolve.py'
 print('WPICTF proof of worky\nUse ' + solveurl + ' to solve\nChallenge:')
 prec+= ''.join(random.choices(string.ascii_uppercase + string.digits, k=10))
 
