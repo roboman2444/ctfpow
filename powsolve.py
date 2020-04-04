@@ -1,10 +1,10 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3
 import hashlib
 import string
 import itertools
 import sys
 
-#challenge  = "wpictf2019powygbY9ImCke:6:02dca9fcf7aabd06d309e8e5e218a40a5c7fb9240ddc4620f06fae31081e5725"
+#challenge  = "wpictf2020powygbY9ImCke:6:02dca9fcf7aabd06d309e8e5e218a40a5c7fb9240ddc4620f06fae31081e5725"
 challenge = sys.argv[1]
 
 
